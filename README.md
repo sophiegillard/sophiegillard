@@ -1,10 +1,16 @@
 ![Bannière_github](https://github.com/sophiegillard/sophiegillard/assets/108305097/5113b712-3faa-4b0b-8f2d-2ea67f0daaf3)
 
-I'm a junior web developper. I just finished an intensive web development training, during which I acquired skills as a full stack developer. I had the opportunity to specialize in React, .NET and MySQL during a 3 month internship. This experience allowed me to put into practice my newly acquired knowledge and demonstrate my ability to learn quickly and find creative solutions.
+Front-end web developer with 2 years of experience, passionate about learning and continuous improvement.
+Self-taught and curious, I’m not afraid to challenge myself to grow.
+Currently specializing in Svelte, with previous experience in React.
+Easygoing and a good team player, I enjoy collaborating and sharing knowledge.
 
-Check my latest project here : https://github.com/sophiegillard/PatchNote
 
 💚 **I LOVE WORKING WITH**
+
+![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white) 
+
+![SvelteKit](https://img.shields.io/badge/sveltekit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
 
@@ -13,6 +19,8 @@ Check my latest project here : https://github.com/sophiegillard/PatchNote
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 💻 **I HAVE EXPERIENCE WITH**
+
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
